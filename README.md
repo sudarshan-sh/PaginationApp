@@ -6,6 +6,7 @@
 
 *   Selected number of profiles are being displayed on a single page depending upon the selection of items per page.
 
+![Pagination App](https://github.com/sudarshan-sh/PaginationApp/blob/main/images/pagination-app.png)
 
 ##  Functional
 
