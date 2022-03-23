@@ -6,7 +6,6 @@
 
 *   Selected number of profiles are being displayed on a single page depending upon the selection of items per page.
 
-![Pagination App](./images/pagination-app.png)
 
 ##  Functional
 
